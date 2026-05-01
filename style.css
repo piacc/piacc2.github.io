@@ -81,7 +81,7 @@ header {
 }
 
 .logo {
-    height: 30px;
+    height: 64px;
     width: auto;
     filter: brightness(0) invert(1);
 }
